@@ -1,0 +1,3 @@
+I will use the Wikipedia Toronto area-code data that we worked with in week 3 to get location coordinates for each neighborhood, clustering them into similar/
+segments. Foursquare API calls will be utilized to retrieve venue information for each neighborhood, which will subsequently be used to generate the/
+recommendation algorithm for apartment seeking user preferences.
